@@ -1,0 +1,12 @@
+{
+  "Code": 0,
+  "Msg": "App更新",
+  "UpdateStatus": 1,
+  "VersionCode": 2,
+  "VersionName": "1.0.1",
+  "UploadTime": "2022-08-08 17:03:16",
+  "ModifyContent": "\nUpdateStatus定义：\r\n1、普通更新。\r\n2、强制更新。\r\n3、可忽略更新。",
+  "DownloadUrl": "https://github.com/Zty7/AppUpdateTest/blob/main/UpdateFolder/app-debug_v1.0.1.apk",
+  "ApkSize": 3090,
+  "ApkMd5": "0b3859503d150b507cf99014189e3ef2"
+}
